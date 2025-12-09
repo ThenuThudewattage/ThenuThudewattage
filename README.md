@@ -2,15 +2,24 @@
 <!-- Title -->
 <h1 align="center">Hi, I'm Thenu 👋</h1>
 
-<p align="center">
-  <strong>Computer Science & Engineering Undergraduate | University of Moratuwa </strong>
-  <br>
-  <a href="https://github.com/ThenuThudewattage">
-    <code>github.com/ThenuThudewattage</code>
-  </a>
-</p>
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
 
-<img align="right" src="https://raw.githubusercontent.com/ThenuThudewattage/ThenuThudewattage/main/cute.gif" width="180" />
+  <!-- LEFT 50% -->
+  <div style="width: 50%;">
+    <p align="left">
+      <strong>Computer Science & Engineering Undergraduate | University of Moratuwa</strong><br>
+      <a href="https://github.com/ThenuThudewattage">
+        <code>github.com/ThenuThudewattage</code>
+      </a>
+    </p>
+  </div>
+
+  <!-- RIGHT 50% -->
+  <div style="width: 50%; text-align: right;">
+    <img src="https://raw.githubusercontent.com/ThenuThudewattage/ThenuThudewattage/main/cute.gif" width="80%" />
+  </div>
+
+</div>
 
 
 <!-- View Count -->
