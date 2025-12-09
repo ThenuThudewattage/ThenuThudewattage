@@ -5,8 +5,8 @@
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
 
   <!-- LEFT 50% -->
-  <div style="width: 50%;">
-    <p align="left">
+  <div>
+    <p align="center">
       <strong>Computer Science & Engineering Undergraduate | University of Moratuwa</strong><br>
       <a href="https://github.com/ThenuThudewattage">
         <code>github.com/ThenuThudewattage</code>
@@ -14,18 +14,20 @@
     </p>
   </div>
 
+  <!-- View Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThenuThudewattage&color=315ac4&style=for-the-badge&label=Profile+Views" />
+</p>
+
+
   <!-- RIGHT 50% -->
-  <div style="width: 50%; text-align: right;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/ThenuThudewattage/ThenuThudewattage/main/cute.gif" width="80%" />
   </div>
 
 </div>
 
 
-<!-- View Count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThenuThudewattage&color=315ac4&style=for-the-badge&label=Profile+Views" />
-</p>
 
 ---
 
