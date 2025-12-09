@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Thenu 👋</h1>
 
 <p align="center">
-  <strong>Computer Science & Engineering Undergraduate | University of Moratuwa | Software Engineer</strong>
+  <strong>Computer Science & Engineering Undergraduate | University of Moratuwa </strong>
   <br>
   <a href="https://github.com/ThenuThudewattage">
     <code>github.com/ThenuThudewattage</code>
