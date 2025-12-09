@@ -10,6 +10,9 @@
   </a>
 </p>
 
+<img align="right" src="https://raw.githubusercontent.com/ThenuThudewattage/ThenuThudewattage/main/cute.gif" width="180" />
+
+
 <!-- View Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThenuThudewattage&color=315ac4&style=for-the-badge&label=Profile+Views" />
