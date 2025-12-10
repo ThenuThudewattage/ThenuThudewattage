@@ -24,8 +24,7 @@
     <td width="50%" valign="top">
       <h3>🌟 About Me</h3>
       <p>
-        Passionate about backend engineering, machine learning, and building scalable real-world systems.<br>
-        I enjoy working across the stack — from microservices and ML pipelines to interactive dashboards and mobile apps.
+        Passionate about software engineering, machine learning, and building scalable real-world systems.<br>
       </p>
     </td>
     <td width="50%" valign="center">
