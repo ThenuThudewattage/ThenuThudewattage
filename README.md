@@ -19,13 +19,22 @@
   <img src="https://komarev.com/ghpvc/?username=ThenuThudewattage&color=315ac4&style=for-the-badge&label=Profile+Views" />
 </p>
 
-
-  <!-- RIGHT 50% -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/ThenuThudewattage/ThenuThudewattage/main/cute.gif" width="80%" />
-  </div>
-
-</div>
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🌟 About Me</h3>
+      <p>
+        Passionate about backend engineering, machine learning, and building scalable real-world systems.<br>
+        I enjoy working across the stack — from microservices and ML pipelines to interactive dashboards and mobile apps.
+      </p>
+    </td>
+    <td width="35%" valign="center">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/ThenuThudewattage/ThenuThudewattage/main/cute.gif" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -52,15 +61,7 @@
 
 ---
 
-<!-- About Me -->
-<h3 align="center">🌟 About Me</h3>
 
-<p align="center">
-  Passionate about backend engineering, machine learning, and building scalable real-world systems.<br>
-  I enjoy working across the stack — from microservices and ML pipelines to interactive dashboards and mobile apps.
-</p>
-
----
 
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
