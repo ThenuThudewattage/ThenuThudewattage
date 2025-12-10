@@ -1,6 +1,6 @@
 
 <!-- Title -->
-<h1 align="center">Hi, I'm Thenu 👋</h1>
+<h1 align="center">Hi, I'm Thenu Thudewattage 👋</h1>
 
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
 
