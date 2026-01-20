@@ -8,7 +8,7 @@
   <div>
     <p align="center">
       <strong>Computer Science & Engineering Undergraduate | University of Moratuwa</strong><br>
-      <a href="[https://github.com/ThenuThudewattage](https://thenuthudewattage.github.io/Portfolio)">
+      <a href="https://thenuthudewattage.github.io/Portfolio">
         <code>github.com/ThenuThudewattage</code>
       </a>
     </p>
